@@ -6,8 +6,8 @@
 > help --info
 > A software engineer, tech enthusiast and bookworm
 > Passionate about knowledge
-> I love to study topics as diverse as philosophy methaphysics and...
-> Of course, coding, software engineering and tech.
+> I love to study topics as diverse as philosophy, methaphysics and...
+> Of course, coding, software engineering and tech :D
 ```
 
 ```bash
